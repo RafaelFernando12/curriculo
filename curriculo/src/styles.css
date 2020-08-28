@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    
+  }
+  .containner{
+    margin-left: 400px;
+    position: relative;
+}
+.bd-placeholder-img{
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+.footer {
+    position: relative;
+    margin-top: 915px; 
+    height: 150px;
+    clear:both;
+    padding-top:20px;
+    background-color: rgb(88, 88, 88);
+  } 
+/* ------------------------------------------------------------------
+------------------------------------------------------------------ */
+@media (min-width: 1200px) {
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+@media (min-width: 768px) and (max-width: 991px) {
+}
+@media (min-width: 576px) and (max-width: 767px) {
+}
+@media (max-width: 575px) {
+}
